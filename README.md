@@ -1,1 +1,1 @@
-étudiant 42 angoulême
+étudiant 42
