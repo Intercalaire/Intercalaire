@@ -31,5 +31,5 @@ Passionné par l'architecture système, le bas niveau (C/C++98) et le déploieme
 
 ## 📊 Statistiques
 <p align="center">
-  <img src="https://github.com/Intercalaire&show_icons=true&theme=radical" alt="Stats" />
+  <<img src="https://github-readme-stats.vercel.app/api?username=Intercalaire&show_icons=true&theme=radical" alt="Stats" />
 </p>
