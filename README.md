@@ -26,14 +26,3 @@ Passionné par l'architecture système, le bas niveau (C/C++98) et le déploieme
     *TypeScript, React, NestJS/Node.js, WebSockets (temps réel), OAuth 2.0.*
 * **[Manga Guesser](https://github.com/Intercalaire/MangaGuesser)** Application de quiz avec système de scraping intelligent.  
     *JavaScript, Scraping automatisé (Nautiljon), optimisation de données JSON.*
-
----
-
-## 📊 Statistiques
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Intercalaire&theme=radical&no-frame=true&margin-w=15" alt="Trophées" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Intercalaire&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
