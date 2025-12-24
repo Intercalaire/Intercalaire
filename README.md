@@ -31,6 +31,9 @@ Passionné par l'architecture système, le bas niveau (C/C++98) et le déploieme
 
 ## 📊 Statistiques
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Intercalaire&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats de Intercalaire" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Intercalaire&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" height="180" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Intercalaire&theme=radical&no-frame=true&margin-w=15" alt="Trophées" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Intercalaire&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
