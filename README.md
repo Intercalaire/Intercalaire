@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Victor
+# 👋 Salut
 
 ### 💻 Étudiant à l'École 42 | Développeur Logiciel & Réseau
 Passionné par l'architecture système, le bas niveau (C/C++98) et le déploiement d'infrastructures robustes.
